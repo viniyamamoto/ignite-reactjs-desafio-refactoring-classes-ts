@@ -1,28 +1,36 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "image": "https://www.freepnglogos.com/uploads/pizza-png/derwent-park-pizza-5.png",
+      "name": "Pizza 01",
+      "price": "30",
+      "description": "Teste",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://www.freepnglogos.com/uploads/pizza-png/file-pepperoni-pizza-9.png",
+      "name": "Pizza 02",
+      "price": "50",
+      "description": "Teste",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://www.freepnglogos.com/uploads/pizza-png/pizza-transparent-image-pictures-25.png",
+      "name": "Pizza 03",
+      "price": "60",
+      "description": "Teste",
+      "available": true,
+      "id": 3
+    },
+    {
+      "image": "https://www.freepnglogos.com/uploads/pizza-png/pizza-images-download-pizza-17.png",
+      "name": "Teste 04",
+      "price": "80",
+      "description": "Teste",
+      "available": true,
+      "id": 4
     }
   ]
 }
